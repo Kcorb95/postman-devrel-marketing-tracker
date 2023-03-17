@@ -1,7 +1,7 @@
 ---
 name: New Livestream
 about: Template for new livestreams.
-title: "[Stream] DATE Livestream (TITLE)"
+title: DATE Livestream (TITLE)
 labels: Livestream, Low Priority
 assignees: ''
 
