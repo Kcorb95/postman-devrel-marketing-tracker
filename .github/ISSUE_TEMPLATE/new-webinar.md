@@ -9,6 +9,7 @@ assignees: ''
 
 ## Details:
 **Title:** Webinar Title
+**Date:** Webinar's Date
 **AirTable:** Link to Webinar's AirTable entry
 
 ## Tasks:

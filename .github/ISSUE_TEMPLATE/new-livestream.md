@@ -9,6 +9,7 @@ assignees: ''
 
 ## Details:
 **Title:** Stream Title
+**Date:** Stream Date
 **AirTable:** Link to stream's AirTable entry
 
 ## Tasks:
