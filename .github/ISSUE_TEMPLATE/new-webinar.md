@@ -2,7 +2,7 @@
 name: New Webinar
 about: Template for webinar marketing.
 title: DATE Webinar (TITLE)
-labels: Low Priority
+labels: Low Priority, Webinar
 assignees: ''
 
 ---
